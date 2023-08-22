@@ -14,7 +14,7 @@ public class Task3 {
     /**
      * Нахождение факториала числа с использованием IntStream
      * @param f - число у которого вычисляется факториал
-     * @return резульать нахождения факториала
+     * @return результат нахождения факториала
      */
     public static int factorialNumber(int f){
         if (f <= 1) {
