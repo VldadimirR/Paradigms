@@ -1,4 +1,4 @@
-package Homrework1;
+package Homework1;
 
 /**
  *  Пример решения задачи императивным стилем
